@@ -1,0 +1,84 @@
+.sweetcapacity {
+   float: right;
+   background-color: #472F2C;
+   color: #FFEDD9;
+   height: 50px;
+   font-size: 200%;
+   padding: 6px 30px;
+   margin-right: 66px;
+}
+
+.nav a {
+   text-decoration: none;
+   color: #472F2C;
+}
+
+
+
+.nav ul {
+   list-style: none;
+   
+}
+
+.nav li {
+   float: left;
+   padding: 5px 10px;
+   margin: 5px;
+   background-color: #FFEDD9;
+   font-size: 150%;
+   color: $472F2C;
+   border: 1px solid #472F2C;
+}
+
+.highlighted {
+   -moz-box-shadow: inset 0 0 2px #472F2C;
+   -webkit-box-shadow: inset 0 0 2px #472F2C;
+   box-shadow: inset 0 0 2px #472F2C;
+}
+
+.nav {
+   display: inline-block;
+}
+
+body {
+   position: relative;
+   background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpWLjF19PhlvP-X6g7-JojpW6tTnQezG4AIaAZE5M2tGq60DYy");
+   color: #472F2C;
+}
+
+
+
+
+.chocolate {
+   width: 300px;
+	min-height:350px;
+	min-height:372px;
+	margin:16px;
+   padding:2px;
+   float:left;
+	display:block;
+	background: #FFEAD1;
+	border: solid 10px #472F2C;
+}
+
+.chocolate img {
+   margin: 10px;
+   width: 280px;
+}
+
+.chocolate h3 {
+   margin: 10px;
+}
+
+.chocolate p {
+   margin: 10px;
+}
+
+.content {
+    border: 10px solid #472F2C;
+    width: 987px;
+    margin: 43px;
+    font-size: 122%;
+    padding: 24px;
+    background-color: #FFEAD1;
+}
